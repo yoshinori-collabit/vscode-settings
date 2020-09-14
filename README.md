@@ -1,5 +1,14 @@
 # vscode-settings
 
-各プロジェクトの設定のたたき台
-
-適宜追加したい
+## extensions.json
+- Prettier
+- ESLint
+- stylelint
+- Visual Studio IntelliCode
+- Bracket Pair Colorizer
+- indent-rainbow
+- vscode-icons
+- Debugger for Chrome
+- VSCodeVim
+- Live Share
+- Code Spell Checker
